@@ -7,7 +7,7 @@ AgentPay-AI is a lightweight **pay-per-use GenAI agent platform** that simulates
 ---
 
 ## Live Demo
-[Click Here(https://agentpay07.streamlit.app/)]
+[Click Here](https://agentpay07.streamlit.app/)
 
 
 ## Video Demo
