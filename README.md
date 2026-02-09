@@ -28,6 +28,24 @@ This project acts as a **proof-of-concept for AI monetization systems**.
 
 ---
 
+## 📸 Screenshots
+### 🏠 Home Page
+<img width="1035" height="775" alt="image" src="https://github.com/user-attachments/assets/969854a6-0131-4bb1-b267-752ba275e041" />
+
+
+### ✅ Functionality 1
+<img width="922" height="693" alt="image" src="https://github.com/user-attachments/assets/efc59485-fa21-45ef-a6f7-93bdc3984ece" />
+
+
+### ✅ Functionality 2
+<img width="784" height="697" alt="image" src="https://github.com/user-attachments/assets/1224e129-279c-46f2-aad9-04e6092f710a" />
+
+
+### ✅ Functionality 3
+<img width="765" height="716" alt="image" src="https://github.com/user-attachments/assets/d9b4b6ba-2684-4c31-9a15-0403f57b3367" />
+
+---
+
 ## 🧠 Problem It Solves
 
 Most AI demos ignore cost control and billing logic, which is unrealistic for production AI systems.
